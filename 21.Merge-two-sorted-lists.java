@@ -83,7 +83,7 @@ class Solution {
             list2 = list2.next;
         }
         // next temp node is current node but initially at 0 position
-        //so return next temp node28
+        //so return next temp node
         return temp.next;
     }
 }
